@@ -1,2 +1,5 @@
 # MLBWAR
 WAR Stat Regression
+
+Pitcher WAR = 1.187795 * IP + 0.055589 * SO9 + 0.020428 * W − 0.276668 * WHIP − 0.432967 * HR − 0.543197 * ERA
+Batter WAR = 1.394879 * R + 0.407324 * OPS + 0.251085 * HR − 0.626785 * SO
